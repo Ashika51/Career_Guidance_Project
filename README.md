@@ -3,3 +3,4 @@ This Project gives a clear understanding about education career guidance after 1
 It solves the queries of students who are confused to choose their educational path in their career.
 There is a clear explanation from different aspiring roles along with the duration and fee. 
 Choose the best way which is suitable to your skills and which you're interested in....
+<img width="1841" height="811" alt="Screenshot 2025-08-03 203502" src="https://github.com/user-attachments/assets/7099485f-6b90-49b3-9db0-5b69f2e9b76b" />
